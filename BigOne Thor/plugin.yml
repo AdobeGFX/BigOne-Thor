@@ -1,0 +1,7 @@
+name: BigOne Thor
+main: me.BigOne.AdobeGFX.NorwayZaGa.Thor.Thor
+version: 1.0
+author: BigOne
+commands:
+   thor:
+     description: Sends ligth where the player is
